@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajeev Sharma
 
-<!--
-**rajeevsharma0577-art/rajeevsharma0577-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst
 
-Here are some ideas to get you started:
+I am a Data Analyst passionate about transforming raw data into meaningful business insights using SQL, Power BI, Excel, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- SQL Server
+- Power BI
+- Microsoft Excel
+- Python
+- DAX
+- Power Query
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+🔹 SQL Interview Questions
+
+🔹 Power BI Sales Dashboard
+
+🔹 Excel Dashboard
+
+🔹 Python Data Analysis
+
+🔹 HR Analytics Dashboard
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Python Automation
+- Git & GitHub
+
+---
+
+## 📫 Contact
+
+📧 Email: rajeevsharma0577@gmail.com
+
+📍 Chandigarh, India
+
+💼 Open to Data Analyst Opportunities
